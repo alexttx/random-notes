@@ -27,7 +27,7 @@ I have my own account for personal use.  I use it at work because it has repos
 with initialization files like like `.bashrc` and `.emacs.d/`, as well my
 personal treasure trove of shell scripts that I've come to rely on.
 
-## My Approach on Linux
+## My Approach
 
 The solution on Linux wasn't obvious to me.  I found an approach that works for
 me that I describe here.  My approach on macOS is the same, but requires extra
@@ -40,7 +40,7 @@ to distinguish between the accounts.
 
 The following sections describe step-by-step how to set it up.
 
-## Setup Details (Linux and macOS)
+## Setup Details
 
 macOS version info:
 
