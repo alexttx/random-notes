@@ -18,6 +18,15 @@ works great when you use a single GitHub account for all your work.  If you use
 multiple accounts and use private repos, then it doesn't work well because some
 software layer between you and the keychain fails to keep the tokens separate.
 
+## Why do I need more than one GitHub account?
+
+I have an account at work, provided by my employer.  I must use that account to
+access work related repos.
+
+I have my own account for personal use.  I use it at work because it has repos
+with initialization files like like `.bashrc` and `.emacs.d/`, as well my
+personal treasure trove of shell scripts that I've come to rely on.
+
 ## My Approach on Linux
 
 The solution on Linux wasn't obvious to me.  I found an approach that works for
@@ -30,15 +39,6 @@ accounts.  By default, `gh` config dir is `$HOME/.config/gh`.  I change that to
 to distinguish between the accounts.
 
 The following sections describe step-by-step how to set it up.
-
-## Why do I need more than one GitHub account?
-
-I have an account at work, provided by my employer.  I must use that account to
-access work related repos.
-
-I have my own account for personal use.  I use it at work because it has repos
-with initialization files like like `.bashrc` and `.emacs.d/`, as well my
-    personal treasure trove of shell scripts that I've come to rely on.
 
 ## Setup Details (Linux and macOS)
 
